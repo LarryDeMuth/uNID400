@@ -1,0 +1,6 @@
+1) After generating processor expert code and BEFORE compiling the BSP, do the following:
+	(The files are in bsp generated code)
+	A) Add the following include:
+	#include "mqx.h"
+	
+	B) NOW the BSP can be compiled!
