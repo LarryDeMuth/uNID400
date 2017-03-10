@@ -5,6 +5,7 @@
 #include "config.h"
 #include "ram.h"
 
+testing
 
 void MainTask(uint32_t value);
 static void CopyCode();
